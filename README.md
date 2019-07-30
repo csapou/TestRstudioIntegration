@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=E2d91v1Twcc (Udførligt om setup) & https://www.youtube.com/watch?v=-c2uNqEE6-c&t=70s (Hurtigt om setup github med R studio) & https://www.youtube.com/watch?v=KjLycV1IWqc&t=474s (del et hvordan man committer, pusher og puller) & https://www.youtube.com/watch?v=qcjpHFwCugE (del to hvordan man committer, pusher og puller)    
 Create github account  
-Install git, did it with default settings, but I'm using sublime as text editor
+Install git, did it with default settings, but I'm using sublime as text editor  
 Need R and R studio  
 Open Github in browser and R studio  
 
