@@ -5,13 +5,13 @@ Need R and R studio
 Open Github in browser and R studio  
 
 ##The first time settig up the github repository
-Go to Github
-Create new repository (The first time)  
-Gets a github URL  
-Go to R studio  
-file --> new project --> Version control --> Git (add https://github.com/csapou/TestRstudioIntegration.git find it under clone or download) --> add directory name (did it automatially) and subdirectory --> create project  
-Is now connected to github. Now create an R script  
-File --> New file --> R script --> add code --> save (can see it added in files)
+#Go to Github
+#Create new repository (The first time)  
+#Gets a github URL  
+#Go to R studio  
+#file --> new project --> Version control --> Git (add https://github.com/csapou/TestRstudioIntegration.git find it under clone or #download) --> add directory name (did it automatially) and subdirectory --> create project  
+#Is now connected to github. Now create an R script  
+#File --> New file --> R script --> add code --> save (can see it added in files)
 
 To upload/push to github  
 Tools --> version control --> commit --> Select files to commit (can see the changed ones) --> Add commit message --> commit --> wait --> Push
