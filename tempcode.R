@@ -8,7 +8,5 @@ data1$Petal.area <- data1[,3]*data1[,4]
 colSums(data1[1:6,1:4])
 data1$Petal.area <- data1[,3]*data1[,4]
 print("very good")
-print("good")
-print("very good")
 print("Adding")
 data1$new <- data1[,3]*data1[,4]*2
