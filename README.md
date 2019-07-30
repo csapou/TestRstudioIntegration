@@ -14,7 +14,7 @@ Is now connected to github. Now create an R script
 File --> New file --> R script --> add code --> save (can see it added in files)
 
 To upload/push to github  
-Tools --> version control --> commit --> Select files to commit (can see the changed ones) --> add comment --> commit --> wait --> Push
+Tools --> version control --> commit --> Select files to commit (can see the changed ones) --> Add commit message --> commit --> wait --> Push
 
 The files should be at github (refresh)
 
@@ -22,6 +22,7 @@ To download/pull from github
 Tools --> version control --> Pull branches
 
 Note  
-If you for instance change something or another person changes something and trying to push you will get an error (A good thing). Then have to pull latest version from github.
+If you for instance change something on another computer or directly in the browser or another person changes something and trying to push (with changes) you will get an error (A good thing). 
+Commit your own changes (Remember to tick off the file to commit). Then have to pull latest version from github. A merge window is appearing. Perform changes in console --> save --> commit --> Have to stage all --> Add commit message --> Commit --> Push 
 
 Have added this to the README
