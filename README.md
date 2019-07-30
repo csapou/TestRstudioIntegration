@@ -14,7 +14,7 @@ Open Github in browser and R studio
 #File --> New file --> R script --> add code --> save (can see it added in files)
 
 To upload/push to github  
-Tools --> version control --> commit --> Select files to commit (can see the changed ones) --> Add commit message --> commit --> --> Push
+Tools --> version control --> commit --> Select files to commit (can see the changed ones) --> Add commit message --> commit --> Push
 
 The files should be at github (refresh)
 
