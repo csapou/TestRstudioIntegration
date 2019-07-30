@@ -24,3 +24,7 @@ Tools --> version control --> Pull branches
 Note  
 If you for instance change something on another computer or directly in the browser or another person changes something and trying to push (with changes) you will get an error (A good thing).   
 Commit your own changes (Remember to tick off the file to commit). Then have to pull latest version from github. A merge window is appearing. Perform changes in console --> save --> commit --> Have to stage all --> Add commit message --> Commit --> Push 
+
+Creating and working on branch
+Make new branch 
+In R studio --> Make sure to branch off of typical the master see dropdown menu in environment --> Press the branch icon two squares and diamond --> Add branch name --> Can now work on branch and merge with master branch later on to have stable master branch     
