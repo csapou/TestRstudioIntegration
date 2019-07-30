@@ -14,9 +14,15 @@ add directory name (did it automatially) and subdirectory --> create project
 Is now connected to github. Now create an R script  
 File --> New file --> R script --> add code --> save (can see it added in files)
 
-To upload to github  
+To upload/push to github  
 Tools --> version control --> commit --> Select all files --> add comment --> commit --> wait --> Push
 
 The files should be at github (refresh)
+
+To download/pull from github 
+Tools --> version control --> Pull branches
+
+Note  
+If you for instance change something or another person changes something and trying to push you will get an error (A good thing). Then have to pull latest version from github.
 
 Have added this to the README
