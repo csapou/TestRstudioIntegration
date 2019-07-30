@@ -2,7 +2,7 @@ https://www.youtube.com/watch?v=E2d91v1Twcc & https://www.youtube.com/watch?v=-c
 Create github account  
 Install github desktop (Had to install git, did it with default settings, probably don't need the github desktop then)  
 Need R and R studio  
-Open Github (server) and R studio  
+Open Github in browser and R studio  
 
 Go to Github
 Create new repository (The first time)  
